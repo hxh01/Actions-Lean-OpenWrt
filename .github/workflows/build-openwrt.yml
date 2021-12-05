@@ -6,7 +6,7 @@
 # Blog: https://P3TERX.com
 #=================================================
 
-name: Build OpenWrt
+name: Build OpenWrt test
 
 on:
   repository_dispatch:
